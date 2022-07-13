@@ -7,7 +7,7 @@ public class RegUserNotify implements Runnable {
 
     private static final int TIME_SLEEP = 6000;
 
-    private static final int PERCENT_COMPARE = 1;                   // for testing use ~ 0.02. wait for a 1 percent change for a long time
+    private static final double PERCENT_COMPARE = 1;                   // for testing use ~ 0.02. wait for a 1 percent change for a long time
 
     private final static Logger logger = Logger.getLogger(RegUserNotify.class);
 
