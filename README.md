@@ -1,6 +1,6 @@
 # IDFinance
 CryptoСurrency watcher
 
-Maven, MySQL, Spring Boot, FeignClient, JPA
+<strong>Maven, MySQL, Spring Boot, FeignClient, JPA</strong>
 
 Написать простой REST-сервис просмотра котировок криптовалют
